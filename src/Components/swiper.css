@@ -1,0 +1,25 @@
+.mySwiper {
+  /* float: right; */
+  /* display: flex; */
+
+  width: 100%;
+  /* background-color: rgb(155, 152, 149,0.8); */
+  color: white;
+}
+h3 {
+  background-color: rgb(39, 39, 39);
+  width: fit-content;
+}
+.swiper-button-prev,
+.swiper-button-next {
+  color: white !important;
+  font-size: 10px !important;
+}
+.swiper-button-next:after,
+.swiper-rtl .swiper-button-prev:after {
+  font-size: 1rem !important;
+}
+.swiper-button-prev:after,
+.swiper-rtl .swiper-button-prev:after {
+  font-size: 1rem !important;
+}
